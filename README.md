@@ -42,6 +42,8 @@ Q5: Does this dataset contribute to the curse of dimensionality? If yes perform 
 
 Q6: Use bill_length_mm vs bill_depth_mm and plot 7 different graphs to visualize them. (code)
 
+![Visualization](Images/Visualiztion.png)
+
 Q7: Find the maximum flipper_length_mm for each combination of species and island. Which species has the longest flippers on each island? (code)
 
 Q8: Perform z-score normalization on this dataset. (code)
